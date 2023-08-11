@@ -6,7 +6,6 @@
 
 function solution(str1, str2) {
   var answer = "";
-
   // str의 대한 길이를 구함
   var repeatNum = str1.length;
 
