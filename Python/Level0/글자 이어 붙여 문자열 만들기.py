@@ -6,7 +6,7 @@
 # [입출력 예]
 # |        my_string       |                index_list                |      result      |
 # |------------------------|------------------------------------------|------------------|
-# |  "cvsgiorszzzmrpaqpe"  | [16, 6, 5, 3, 12, 14, 11, 11, 17, 12, 7] | 	"programmers"  |
+# |  "cvsgiorszzzmrpaqpe"  | [16, 6, 5, 3, 12, 14, 11, 11, 17, 12, 7] |  "programmers"   |
 # |        "zpiaz"         |            [1, 2, 0, 0, 3]               |      "pizza"     |
 
 def solution(my_string, index_list):
