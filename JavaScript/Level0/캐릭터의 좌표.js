@@ -58,5 +58,3 @@ function solution(keyinput, board) {
 
   return answer;
 }
-
-// 추가 풀이
