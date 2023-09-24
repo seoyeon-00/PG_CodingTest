@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=20)
 # 프로그래머스 코딩테스트 연습
->`Python`과 `JavaScript` 코딩테스트 연습. 최종 Level 2 단계를 목표로 코딩테스트 준비 
+>`Python`과 `JavaScript` 코딩테스트 연습.
+>최종 Level 2 단계를 목표로 코딩테스트 준비 
   
 
 ### 💡 SKILL
