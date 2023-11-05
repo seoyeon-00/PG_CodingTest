@@ -15,15 +15,9 @@
 ### 🖋 Method
 
 ```
-  const = [];
+  const =
 ```
 
 
-### JavaScript 알고리즘 & 자료구조
-|               알고리즘 & 자료구조                | 
-| :---------------------------------------------: | 
-| <img width="400" alt="image" src="https://img-c.udemycdn.com/course/240x135/4305113_68d5_4.jpg"> | 
-
-https://www.notion.so/d5cf4e3b8c004742b3a3eb04999ee79f
 
 ### 🖋 add.
