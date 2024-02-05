@@ -35,13 +35,12 @@ function solution(numbers) {
     }
 
     num.forEach((item, index) => {
-      const rest = num.slice(0, index).concat(num.slice(index + 1));
+      const rest = num.slice(0, index).concat(num.slice(index + 1)); // item을 제외한 배열
       const combine = combination(rest, n - 1);
       const attached = combine.map((v) => [item, ...v]);
 
       result.push(...attached);
     });
-
     return result;
   }
 
